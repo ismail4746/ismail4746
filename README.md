@@ -97,17 +97,6 @@ I'm interested in building systems where AI is an integrated capability, not sim
 
 ---
 
-## 📂 Selected Work
-
-### DataManagement
-
-PHP-based repository exploring application and database development.
-
-[Explore Repository](https://github.com/ismail4746/DataManagement)
-
-*More work in AI engineering, architecture, and agentic systems will be showcased as projects are developed and published.*
-
----
 
 ## 🌐 Let's Connect
 
